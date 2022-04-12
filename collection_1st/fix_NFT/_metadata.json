@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "1520a9918a2772e73cefbd456070b078c7e5641f",
+    "edition": 1,
+    "date": 1649459128500,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot Skin Max 2022"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Orc Hair"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black Tank top"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "ad467d829fb96123cb0e577f3aec08c04f9ce95d",
+    "edition": 2,
+    "date": 1649459129147,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot Skin Max 2022"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brain"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Track Suit"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Orc Mouth"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "6264940d8bc206c003968f8f15e45cdc3904d187",
+    "edition": 3,
+    "date": 1649459129800,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot Skin Max 2022"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Striped T Shirt Red"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Love Sticker"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Orc Mouth"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "6ecd125a353944679250a851011d32c46989e59d",
+    "edition": 4,
+    "date": 1649459130440,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot Skin Max 2022"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Black Jecket"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Fishbone Earring"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Love Sticker"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Evil Toy Mouth"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "52d7369beae35ad2363f72aa5d99a5d7b2c4a500",
+    "edition": 5,
+    "date": 1649459131091,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot Skin Max 2022"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Gumball Machine"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Striped T Shirt Red"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Scary Eye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "020fad0a7456d9ea22607e7ead77391d3109a2ed",
+    "edition": 6,
+    "date": 1649459131758,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot Skin Max 2022"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brain"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Striped T Shirt Red"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Scary Eye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Hanging Tongue"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "5b283ecbc41b327c1706a93ba0f42a38b3102ec0",
+    "edition": 7,
+    "date": 1649459132424,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot Skin Max 2022"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Blue Track Suit"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Fishbone Earring"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Mad Sticker"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Hanging Tongue"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "bab1b43e89530a3e8ea0f33f9ca8a242d9d5b020",
+    "edition": 8,
+    "date": 1649459133084,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Evil Skin"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Orc Hair"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Red Down Jacket"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Small Hoop Earring 3"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Scary Eye"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Hanging Tongue"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "965417f1ce7d7f084cda16a86a1874032e106a83",
+    "edition": 9,
+    "date": 1649459133824,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot Skin Max 2022"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Orc Hair"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Red Down Jacket"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Thunder Earring"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "adf3d8d4a2011def2191933437a5aa98d47dd488",
+    "edition": 10,
+    "date": 1649459134572,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Robot Skin Max 2022"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Banana Hair"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "Striped T Shirt Red"
+      },
+      {
+        "trait_type": "Ear",
+        "value": "Null"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Eye7"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Evil Toy Mouth"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Robot Max"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
